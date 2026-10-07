@@ -1,0 +1,582 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shamsi Calendar 1405-1406//FA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:تعطیلات رسمی ایران ۱۴۰۵-۱۴۰۶
+X-WR-TIMEZONE:Asia/Tehran
+X-APPLE-CALENDAR-COLOR:#E53935
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:fb035678d7b3fa42aa290639c6d96377@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:🔴 آغاز نوروز / عید سعید فطر
+TRANSP:TRANSPARENT
+DESCRIPTION:شنبه ۱ فروردین ۱۴۰۵\nمنبع: تقویم ر
+ سمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:4fae444e015bf9def86e2642a1a0a726@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:🔴 عید نوروز / تعطیل به مناسبت عید فط
+ ر
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۲ فروردین ۱۴۰۵\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:5ffeed27a15548a9be41853cd28c97c3@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:🔴 عید نوروز
+TRANSP:TRANSPARENT
+DESCRIPTION:دوشنبه ۳ فروردین ۱۴۰۵\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c520144f6cb474947559d5efd3a731@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:🔴 عید نوروز
+TRANSP:TRANSPARENT
+DESCRIPTION:سه‌شنبه ۴ فروردین ۱۴۰۵\nمنبع: تقو
+ یم رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:d34517214d271cfdd070874a939dff4e@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:🔴 روز جمهوری اسلامی
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۱۲ فروردین ۱۴۰۵\nمنبع: تق
+ ویم رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:fee36381c05b3d81c5bddfed0743cb7a@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:🔴 روز طبیعت
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۱۳ فروردین ۱۴۰۵\nمنبع: تقو
+ یم رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:06105ae6ebfad85a939f2c206e08e9ba@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:🔴 شهادت امام جعفر صادق (ع)
+TRANSP:TRANSPARENT
+DESCRIPTION:سه‌شنبه ۲۵ فروردین ۱۴۰۵\nمنبع: تق
+ ویم رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:ca7deecc75fb22b5378ea4875de996a5@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:🔴 عید سعید قربان
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۶ خرداد ۱۴۰۵\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:b142c105dcd8685bfb6f7d8eb7e5a165@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:🔴 عید غدیر خم / رحلت امام خمینی
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۱۴ خرداد ۱۴۰۵\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:02a1ea83b53f6f6b78fce2eea2da39a5@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:🔴 قیام ۱۵ خرداد
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۱۵ خرداد ۱۴۰۵\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:853d108fe94d1ebfccdbe22464c33694@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:🔴 تاسوعای حسینی
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۳ تیر ۱۴۰۵\nمنبع: تقویم ر
+ سمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:1353faa2b43645bf3b40c4230fa3c821@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:🔴 عاشورای حسینی
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۴ تیر ۱۴۰۵\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:1692f8ea6a34817b0507802b41ce0add@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:🔴 اربعین حسینی
+TRANSP:TRANSPARENT
+DESCRIPTION:سه‌شنبه ۱۳ مرداد ۱۴۰۵\nمنبع: تقوی
+ م رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:96a94fdf8f30c863eba89ea62e7a4743@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:🔴 رحلت پیامبر اکرم (ص) و شهادت امام 
+ حسن مجتبی (ع)
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۲۱ مرداد ۱۴۰۵\nمنبع: تقوی
+ م رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:90b25c55ae6a8d4ed3d6cd3bff5cf8b3@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:🔴 شهادت امام رضا (ع)
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۲۲ مرداد ۱۴۰۵\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:14e2d30b1e2c5a75214d44aad04a9a2a@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:🔴 شهادت امام حسن عسکری (ع)
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۳۰ مرداد ۱۴۰۵\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:59ccd9596037b366d5cb4c82da9842a5@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:🔴 ولادت پیامبر اکرم (ص) و امام جعفر 
+ صادق (ع)
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۸ شهریور ۱۴۰۵\nمنبع: تقویم 
+ رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:8c3802833d9f8552fcff3fe806d6762f@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🔴 شهادت حضرت فاطمه زهرا (س)
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۲۲ آبان ۱۴۰۵\nمنبع: تقویم رسم
+ ی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:9b18b19868ecbac85e281729d3a804a3@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🔴 ولادت امام علی (ع) / روز پدر
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۲ دی ۱۴۰۵\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:3db781553149b750eb22ccce70b9f9a6@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🔴 مبعث حضرت رسول اکرم (ص)
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۱۶ دی ۱۴۰۵\nمنبع: تقویم ر
+ سمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:6a078732e543cb6aec97013f7cd8f6b7@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:🔴 ولادت حضرت قائم (عج) / نیمه شعبان
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۴ بهمن ۱۴۰۵\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:339b9041c212f2844756b97edddd0c16@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:🔴 پیروزی انقلاب اسلامی
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۲۲ بهمن ۱۴۰۵\nمنبع: تقویم 
+ رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:254f72f3ae4bae3fc9c895a59510d089@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:🔴 شهادت امام علی (ع)
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۹ اسفند ۱۴۰۵\nمنبع: تقویم ر
+ سمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:85c3d7cb4162ed5af4edb314ea1c1a8d@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🔴 عید سعید فطر
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۱۹ اسفند ۱۴۰۵\nمنبع: تقوی
+ م رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:f71e8ff26640b98f61d05a390ed513b8@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:🔴 تعطیل به مناسبت عید فطر
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۲۰ اسفند ۱۴۰۵\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:3378318d48f610f2b00d4c0d55e05361@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🔴 روز ملی شدن صنعت نفت
+TRANSP:TRANSPARENT
+DESCRIPTION:شنبه ۲۹ اسفند ۱۴۰۵\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:33fc0cfeb8f65f217b27aa135fb25465@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:🔴 آغاز نوروز
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۱ فروردین ۱۴۰۶\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:36224111a475c2e35773fc449ed1332c@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:🔴 عید نوروز
+TRANSP:TRANSPARENT
+DESCRIPTION:دوشنبه ۲ فروردین ۱۴۰۶\nمنبع: تقویم
+  رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:8c9c475f9cf24611f9c7e3959b0b8b14@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:🔴 عید نوروز
+TRANSP:TRANSPARENT
+DESCRIPTION:سه‌شنبه ۳ فروردین ۱۴۰۶\nمنبع: تقو
+ یم رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:882ff37ccb75527c9df869460f4f6eed@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🔴 عید نوروز
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۴ فروردین ۱۴۰۶\nمنبع: تقو
+ یم رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa5db2647c097ca2f34e402d6612d86@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:🔴 روز جمهوری اسلامی
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۱۲ فروردین ۱۴۰۶\nمنبع: تقو
+ یم رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:5cbd21ab9d50adc49fdde545861369a8@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:🔴 روز طبیعت
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۱۳ فروردین ۱۴۰۶\nمنبع: تقویم 
+ رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:2c642bbe295e5df18a8ef7e4e3ea2b12@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:🔴 شهادت امام جعفر صادق (ع) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:شنبه ۱۴ فروردین ۱۴۰۶\nتقویم رسمی ۱
+ ۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با محا
+ سبه نجومی تخمین زده شده و ممکن است ±۱ روز
+  جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:50f031bd934c52e599588ff8608a8c2b@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:🔴 عید سعید قربان (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:دوشنبه ۲۷ اردیبهشت ۱۴۰۶\nتقویم رس
+ می ۱۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با
+  محاسبه نجومی تخمین زده شده و ممکن است ±۱
+  روز جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:61be907316e8d5f830b3e06791c76603@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:🔴 عید غدیر خم (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:سه‌شنبه ۴ خرداد ۱۴۰۶\nتقویم رسمی 
+ ۱۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با مح
+ اسبه نجومی تخمین زده شده و ممکن است ±۱ رو
+ ز جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:665533a46e6d28fbe9ab69c2196a3425@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:🔴 رحلت امام خمینی
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۱۴ خرداد ۱۴۰۶\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:83753e775f3a7809abe46989531f3901@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🔴 قیام ۱۵ خرداد
+TRANSP:TRANSPARENT
+DESCRIPTION:شنبه ۱۵ خرداد ۱۴۰۶\nمنبع: تقویم رس
+ می ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c5e56cd0a589ef71367d62d054539d@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:🔴 تاسوعای حسینی (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:سه‌شنبه ۲۵ خرداد ۱۴۰۶\nتقویم رسمی
+  ۱۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با م
+ حاسبه نجومی تخمین زده شده و ممکن است ±۱ ر
+ وز جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:1560d76e6b33c1ecac0408f9554fefbc@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:🔴 عاشورای حسینی (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۲۶ خرداد ۱۴۰۶\nتقویم رسم
+ ی ۱۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با 
+ محاسبه نجومی تخمین زده شده و ممکن است ±۱ 
+ روز جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:c973f41e81f3764b23c9adedef7ab9b1@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:🔴 اربعین حسینی (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۳ مرداد ۱۴۰۶\nتقویم رسمی ۱۴
+ ۰۶ هنوز منتشر نشده؛ تعطیلات قمری با محاس
+ به نجومی تخمین زده شده و ممکن است ±۱ روز 
+ جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:19239fb751431473ae3612eb65d15065@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:🔴 رحلت پیامبر اکرم (ص) و شهادت امام 
+ حسن مجتبی (ع) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:دوشنبه ۱۱ مرداد ۱۴۰۶\nتقویم رسمی ۱
+ ۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با محا
+ سبه نجومی تخمین زده شده و ممکن است ±۱ روز
+  جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:73a7783f003271ce3ecf5d9097b49d0e@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:🔴 شهادت امام رضا (ع) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:سه‌شنبه ۱۲ مرداد ۱۴۰۶\nتقویم رسمی
+  ۱۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با م
+ حاسبه نجومی تخمین زده شده و ممکن است ±۱ ر
+ وز جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:0e9d8359ec95b95a68f6e342e018bf33@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:🔴 شهادت امام حسن عسکری (ع) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۲۰ مرداد ۱۴۰۶\nتقویم رسم
+ ی ۱۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با 
+ محاسبه نجومی تخمین زده شده و ممکن است ±۱ 
+ روز جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0a239b84efde0331a3e829a5e09f95@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:🔴 ولادت پیامبر اکرم (ص) و امام جعفر 
+ صادق (ع) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۲۹ مرداد ۱۴۰۶\nتقویم رسمی ۱۴۰
+ ۶ هنوز منتشر نشده؛ تعطیلات قمری با محاسب
+ ه نجومی تخمین زده شده و ممکن است ±۱ روز ج
+ ابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:8389701d39df4fd0e34aa019cbc2a5d7@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:🔴 شهادت حضرت فاطمه زهرا (س) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:چهارشنبه ۱۲ آبان ۱۴۰۶\nتقویم رسمی 
+ ۱۴۰۶ هنوز منتشر نشده؛ تعطیلات قمری با مح
+ اسبه نجومی تخمین زده شده و ممکن است ±۱ رو
+ ز جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:285a1c87fd9a4c0b9753705838316dbd@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:🔴 ولادت امام علی (ع) / روز پدر (تخمین
+ ی)
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۲۱ آذر ۱۴۰۶\nتقویم رسمی ۱۴۰
+ ۶ هنوز منتشر نشده؛ تعطیلات قمری با محاسب
+ ه نجومی تخمین زده شده و ممکن است ±۱ روز ج
+ ابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:a528404753d1c704e2dd87fe29bc5d5a@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:🔴 مبعث حضرت رسول اکرم (ص) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۵ دی ۱۴۰۶\nتقویم رسمی ۱۴۰۶ 
+ هنوز منتشر نشده؛ تعطیلات قمری با محاسبه 
+ نجومی تخمین زده شده و ممکن است ±۱ روز جاب
+ ه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:3180ee8bded0abf844cdbdb6fafecd32@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20280113
+DTEND;VALUE=DATE:20280114
+SUMMARY:🔴 ولادت حضرت قائم (عج) / نیمه شعبان (
+ تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:پنجشنبه ۲۳ دی ۱۴۰۶\nتقویم رسمی ۱۴۰
+ ۶ هنوز منتشر نشده؛ تعطیلات قمری با محاسب
+ ه نجومی تخمین زده شده و ممکن است ±۱ روز ج
+ ابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4682f1e5c5cc9e8baf1a8c6e11a2492@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:🔴 پیروزی انقلاب اسلامی
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۲۲ بهمن ۱۴۰۶\nمنبع: تقویم رسم
+ ی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+BEGIN:VEVENT
+UID:068e4a341926b9542eb351cec8d14ef0@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20280218
+DTEND;VALUE=DATE:20280219
+SUMMARY:🔴 شهادت امام علی (ع) (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:جمعه ۲۹ بهمن ۱۴۰۶\nتقویم رسمی ۱۴۰۶
+  هنوز منتشر نشده؛ تعطیلات قمری با محاسبه
+  نجومی تخمین زده شده و ممکن است ±۱ روز جا
+ به‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ec594cf2e0fb3ee14c1137c7f7809d0@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:🔴 عید سعید فطر (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۸ اسفند ۱۴۰۶\nتقویم رسمی ۱۴
+ ۰۶ هنوز منتشر نشده؛ تعطیلات قمری با محاس
+ به نجومی تخمین زده شده و ممکن است ±۱ روز 
+ جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:c86c9e6c5b8c1b8515d46a20e47bf097@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280229
+SUMMARY:🔴 تعطیل به مناسبت عید فطر (تخمینی)
+TRANSP:TRANSPARENT
+DESCRIPTION:دوشنبه ۹ اسفند ۱۴۰۶\nتقویم رسمی ۱۴
+ ۰۶ هنوز منتشر نشده؛ تعطیلات قمری با محاس
+ به نجومی تخمین زده شده و ممکن است ±۱ روز 
+ جابه‌جا شود.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb6c8d0809eb56aa7cf61fb3bf40ba0f@shamsi-cal
+DTSTAMP:20261007T194813Z
+DTSTART;VALUE=DATE:20280319
+DTEND;VALUE=DATE:20280320
+SUMMARY:🔴 روز ملی شدن صنعت نفت
+TRANSP:TRANSPARENT
+DESCRIPTION:یکشنبه ۲۹ اسفند ۱۴۰۶\nمنبع: تقویم 
+ رسمی ۱۴۰۵ (شورای فرهنگ عمومی)
+END:VEVENT
+END:VCALENDAR
