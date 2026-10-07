@@ -9,42 +9,8 @@ X-APPLE-CALENDAR-COLOR:#1E88E5
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:19a5fd54e9df0d02961fd8c0d3148210@shamsi-cal
-DTSTAMP:20261007T194813Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:📌 اظهارنامه ارزش افزوده تابستان ۱۴
- ۰۵
-TRANSP:TRANSPARENT
-DESCRIPTION:مهلت قانونی ارسال اظهارنامه و پرد
- اخت مالیات بر ارزش افزوده (۱۵ روز پس از پ
- ایان دوره).\nسازمان امور مالیاتی معمولاً 
- به‌خاطر مهلت ۳۰ روزه واکنش خریدار در سا
- مانه مؤدیان تمدید می‌کند؛ بخشنامه تمدی
- د را در intamedia.ir چک کنید.\nمهلت تقویمی: چهار
- شنبه ۱۵ مهر ۱۴۰۵
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
- ۱۴۰۵
-TRIGGER:-P6DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
- ۱۴۰۵
-TRIGGER:-P2DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
- ۱۴۰۵
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:fd3affa73478ba642d3c63e574685e76@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:📌 لیست بیمه و مالیات حقوق شهریور ۱۴
@@ -69,8 +35,43 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:bc32f4bacb41786db12542f8fbf0fa4e@shamsi-cal
+DTSTAMP:20261007T204911Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:📌 اظهارنامه ارزش افزوده تابستان ۱۴
+ ۰۵
+TRANSP:TRANSPARENT
+DESCRIPTION:مهلت ارسال اظهارنامه و پرداخت مال
+ یات بر ارزش افزوده: ۴۵ روز پس از پایان فص
+ ل (رویه سامانه مؤدیان).\nپایان فصل: سه‌شن
+ به ۳۱ شهریور ۱۴۰۵\nدر صورت صدور بخشنامه ت
+ مدید در intamedia.ir، مهلت جدید ملاک است.\nمهلت
+  تقویمی: جمعه ۱۵ آبان ۱۴۰۵\nچون آخرین روز 
+ مهلت تعطیل است، به اولین روز کاری بعد من
+ تقل شد: شنبه ۱۶ آبان ۱۴۰۵
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
+ ۱۴۰۵
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
+ ۱۴۰۵
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
+ ۱۴۰۵
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:a801d8424559c61d26d345f541c67930@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:📌 لیست بیمه و مالیات حقوق مهر ۱۴۰۵
@@ -95,7 +96,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9280af114ca81bd022d6992045cbc10c@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:📌 لیست بیمه و مالیات حقوق آبان ۱۴۰۵
@@ -119,41 +120,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:08962e464762f5d8fce91e12fd01c9ac@shamsi-cal
-DTSTAMP:20261007T194813Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-SUMMARY:📌 اظهارنامه ارزش افزوده پاییز ۱۴۰۵
-TRANSP:TRANSPARENT
-DESCRIPTION:مهلت قانونی ارسال اظهارنامه و پرد
- اخت مالیات بر ارزش افزوده (۱۵ روز پس از پ
- ایان دوره).\nسازمان امور مالیاتی معمولاً 
- به‌خاطر مهلت ۳۰ روزه واکنش خریدار در سا
- مانه مؤدیان تمدید می‌کند؛ بخشنامه تمدی
- د را در intamedia.ir چک کنید.\nمهلت تقویمی: سه‌
- شنبه ۱۵ دی ۱۴۰۵
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
- ۰۵
-TRIGGER:-P6DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
- ۰۵
-TRIGGER:-P2DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
- ۰۵
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:bdea76df92e964984e3e9f246ccb8d55@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:📌 لیست بیمه و مالیات حقوق آذر ۱۴۰۵
@@ -177,8 +145,40 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:cff1a1dae29b41f8786f1ec8f58ab9fb@shamsi-cal
+DTSTAMP:20261007T204911Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:📌 اظهارنامه ارزش افزوده پاییز ۱۴۰۵
+TRANSP:TRANSPARENT
+DESCRIPTION:مهلت ارسال اظهارنامه و پرداخت مال
+ یات بر ارزش افزوده: ۴۵ روز پس از پایان فص
+ ل (رویه سامانه مؤدیان).\nپایان فصل: دوشنبه
+  ۳۰ آذر ۱۴۰۵\nدر صورت صدور بخشنامه تمدید 
+ در intamedia.ir، مهلت جدید ملاک است.\nمهلت تقوی
+ می: پنجشنبه ۱۵ بهمن ۱۴۰۵
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
+ ۰۵
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
+ ۰۵
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
+ ۰۵
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:768559a3d705d0ca280d06064712f88d@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:📌 لیست بیمه و مالیات حقوق دی ۱۴۰۵
@@ -203,7 +203,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:27db45026aaf60fc704b895171762840@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:📌 لیست بیمه و مالیات حقوق بهمن ۱۴۰۵
@@ -229,42 +229,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b8ea594346c24807ad2e05b106884d01@shamsi-cal
-DTSTAMP:20261007T194813Z
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
-SUMMARY:📌 اظهارنامه ارزش افزوده زمستان ۱۴۰
- ۵
-TRANSP:TRANSPARENT
-DESCRIPTION:مهلت قانونی ارسال اظهارنامه و پرد
- اخت مالیات بر ارزش افزوده (۱۵ روز پس از پ
- ایان دوره).\nسازمان امور مالیاتی معمولاً 
- به‌خاطر مهلت ۳۰ روزه واکنش خریدار در سا
- مانه مؤدیان تمدید می‌کند؛ بخشنامه تمدی
- د را در intamedia.ir چک کنید.\nمهلت تقویمی: یکشن
- به ۱۵ فروردین ۱۴۰۶
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده زمستان ۱
- ۴۰۵
-TRIGGER:-P6DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده زمستان ۱
- ۴۰۵
-TRIGGER:-P2DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده زمستان ۱
- ۴۰۵
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:45a3e6c3b0c969ce6cbcdd8dc11bdb6e@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:📌 لیست بیمه و مالیات حقوق اسفند ۱۴۰
@@ -289,8 +255,41 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:970139c157b9255575aa126f5c4758fd@shamsi-cal
+DTSTAMP:20261007T204911Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:📌 اظهارنامه ارزش افزوده زمستان ۱۴۰
+ ۵
+TRANSP:TRANSPARENT
+DESCRIPTION:مهلت ارسال اظهارنامه و پرداخت مال
+ یات بر ارزش افزوده: ۴۵ روز پس از پایان فص
+ ل (رویه سامانه مؤدیان).\nپایان فصل: شنبه ۲
+ ۹ اسفند ۱۴۰۵\nدر صورت صدور بخشنامه تمدید 
+ در intamedia.ir، مهلت جدید ملاک است.\nمهلت تقوی
+ می: سه‌شنبه ۱۴ اردیبهشت ۱۴۰۶
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده زمستان ۱
+ ۴۰۵
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده زمستان ۱
+ ۴۰۵
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده زمستان ۱
+ ۴۰۵
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:36f815c8771f525026e00b283484a37d@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:📌 لیست بیمه و مالیات حقوق فروردین ۱
@@ -318,7 +317,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:519163449f20ae5552ae541f6118764f@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
 SUMMARY:📌 لیست بیمه و مالیات حقوق اردیبهشت 
@@ -344,7 +343,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:77b9a8a529ad07f5d3c44c3e653c29ec@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
 SUMMARY:📌 اظهارنامه عملکرد اشخاص حقیقی و ا
@@ -379,41 +378,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:19926ab056db7e9164cb8e17522507f7@shamsi-cal
-DTSTAMP:20261007T194813Z
-DTSTART;VALUE=DATE:20270706
-DTEND;VALUE=DATE:20270707
-SUMMARY:📌 اظهارنامه ارزش افزوده بهار ۱۴۰۶
-TRANSP:TRANSPARENT
-DESCRIPTION:مهلت قانونی ارسال اظهارنامه و پرد
- اخت مالیات بر ارزش افزوده (۱۵ روز پس از پ
- ایان دوره).\nسازمان امور مالیاتی معمولاً 
- به‌خاطر مهلت ۳۰ روزه واکنش خریدار در سا
- مانه مؤدیان تمدید می‌کند؛ بخشنامه تمدی
- د را در intamedia.ir چک کنید.\nمهلت تقویمی: سه‌
- شنبه ۱۵ تیر ۱۴۰۶
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده بهار ۱۴۰
- ۶
-TRIGGER:-P6DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده بهار ۱۴۰
- ۶
-TRIGGER:-P2DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده بهار ۱۴۰
- ۶
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:d7cfb500e7efd135c4b88f46429a2480@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 SUMMARY:📌 لیست بیمه و مالیات حقوق خرداد ۱۴۰
@@ -439,7 +405,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c4573b315d8c752d9da9f1762cee5185@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 SUMMARY:📌 اظهارنامه عملکرد اشخاص حقوقی ۱۴۰
@@ -483,8 +449,40 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:92d30a381e687442aefd66cc966a1f44@shamsi-cal
+DTSTAMP:20261007T204911Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:📌 اظهارنامه ارزش افزوده بهار ۱۴۰۶
+TRANSP:TRANSPARENT
+DESCRIPTION:مهلت ارسال اظهارنامه و پرداخت مال
+ یات بر ارزش افزوده: ۴۵ روز پس از پایان فص
+ ل (رویه سامانه مؤدیان).\nپایان فصل: دوشنبه
+  ۳۱ خرداد ۱۴۰۶\nدر صورت صدور بخشنامه تمدی
+ د در intamedia.ir، مهلت جدید ملاک است.\nمهلت تق
+ ویمی: پنجشنبه ۱۴ مرداد ۱۴۰۶
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده بهار ۱۴۰
+ ۶
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده بهار ۱۴۰
+ ۶
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده بهار ۱۴۰
+ ۶
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:de6034a662c9433da1b16475f908ad06@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:📌 لیست بیمه و مالیات حقوق تیر ۱۴۰۶
@@ -509,7 +507,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e365b2563faad46e199b812aa087e66e@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
 SUMMARY:📌 لیست بیمه و مالیات حقوق مرداد ۱۴۰
@@ -534,42 +532,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3acd6c26a179b521e81a5621032cfa70@shamsi-cal
-DTSTAMP:20261007T194813Z
-DTSTART;VALUE=DATE:20271007
-DTEND;VALUE=DATE:20271008
-SUMMARY:📌 اظهارنامه ارزش افزوده تابستان ۱۴
- ۰۶
-TRANSP:TRANSPARENT
-DESCRIPTION:مهلت قانونی ارسال اظهارنامه و پرد
- اخت مالیات بر ارزش افزوده (۱۵ روز پس از پ
- ایان دوره).\nسازمان امور مالیاتی معمولاً 
- به‌خاطر مهلت ۳۰ روزه واکنش خریدار در سا
- مانه مؤدیان تمدید می‌کند؛ بخشنامه تمدی
- د را در intamedia.ir چک کنید.\nمهلت تقویمی: پنجش
- نبه ۱۵ مهر ۱۴۰۶
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
- ۱۴۰۶
-TRIGGER:-P6DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
- ۱۴۰۶
-TRIGGER:-P2DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
- ۱۴۰۶
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:9ee968ba0e81c0d3eb9b6a590a3af6b9@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
 SUMMARY:📌 لیست بیمه و مالیات حقوق شهریور ۱۴
@@ -595,8 +559,41 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:0b8b250a2f598a797eeccd770d61026d@shamsi-cal
+DTSTAMP:20261007T204911Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+SUMMARY:📌 اظهارنامه ارزش افزوده تابستان ۱۴
+ ۰۶
+TRANSP:TRANSPARENT
+DESCRIPTION:مهلت ارسال اظهارنامه و پرداخت مال
+ یات بر ارزش افزوده: ۴۵ روز پس از پایان فص
+ ل (رویه سامانه مؤدیان).\nپایان فصل: چهارشن
+ به ۳۱ شهریور ۱۴۰۶\nدر صورت صدور بخشنامه ت
+ مدید در intamedia.ir، مهلت جدید ملاک است.\nمهلت
+  تقویمی: شنبه ۱۵ آبان ۱۴۰۶
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
+ ۱۴۰۶
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
+ ۱۴۰۶
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده تابستان 
+ ۱۴۰۶
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:48a0fb3b3aa19ca94259b7a6f6876d42@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20271121
 DTEND;VALUE=DATE:20271122
 SUMMARY:📌 لیست بیمه و مالیات حقوق مهر ۱۴۰۶
@@ -621,7 +618,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:265f37dfdb61d64a5b5520d2ebefc4ca@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20271221
 DTEND;VALUE=DATE:20271222
 SUMMARY:📌 لیست بیمه و مالیات حقوق آبان ۱۴۰۶
@@ -645,41 +642,8 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e736ee3c257c239da4aabf35189fea98@shamsi-cal
-DTSTAMP:20261007T194813Z
-DTSTART;VALUE=DATE:20280105
-DTEND;VALUE=DATE:20280106
-SUMMARY:📌 اظهارنامه ارزش افزوده پاییز ۱۴۰۶
-TRANSP:TRANSPARENT
-DESCRIPTION:مهلت قانونی ارسال اظهارنامه و پرد
- اخت مالیات بر ارزش افزوده (۱۵ روز پس از پ
- ایان دوره).\nسازمان امور مالیاتی معمولاً 
- به‌خاطر مهلت ۳۰ روزه واکنش خریدار در سا
- مانه مؤدیان تمدید می‌کند؛ بخشنامه تمدی
- د را در intamedia.ir چک کنید.\nمهلت تقویمی: چهار
- شنبه ۱۵ دی ۱۴۰۶
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
- ۰۶
-TRIGGER:-P6DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
- ۰۶
-TRIGGER:-P2DT15H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
- ۰۶
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:90551599f7a2ba1d8412830c5d6f13d6@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20280120
 DTEND;VALUE=DATE:20280121
 SUMMARY:📌 لیست بیمه و مالیات حقوق آذر ۱۴۰۶
@@ -703,8 +667,42 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:8f9043c964b4bb06db360f4528d93890@shamsi-cal
+DTSTAMP:20261007T204911Z
+DTSTART;VALUE=DATE:20280205
+DTEND;VALUE=DATE:20280206
+SUMMARY:📌 اظهارنامه ارزش افزوده پاییز ۱۴۰۶
+TRANSP:TRANSPARENT
+DESCRIPTION:مهلت ارسال اظهارنامه و پرداخت مال
+ یات بر ارزش افزوده: ۴۵ روز پس از پایان فص
+ ل (رویه سامانه مؤدیان).\nپایان فصل: سه‌شن
+ به ۳۰ آذر ۱۴۰۶\nدر صورت صدور بخشنامه تمدی
+ د در intamedia.ir، مهلت جدید ملاک است.\nمهلت تق
+ ویمی: جمعه ۱۵ بهمن ۱۴۰۶\nچون آخرین روز مه
+ لت تعطیل است، به اولین روز کاری بعد منتق
+ ل شد: شنبه ۱۶ بهمن ۱۴۰۶
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
+ ۰۶
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
+ ۰۶
+TRIGGER:-P2DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📌 اظهارنامه ارزش افزوده پاییز ۱۴
+ ۰۶
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:df96e331f80b7fb22245f68e1e885274@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20280219
 DTEND;VALUE=DATE:20280220
 SUMMARY:📌 لیست بیمه و مالیات حقوق دی ۱۴۰۶
@@ -727,7 +725,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d17caad994113c4336cfe2b97197bf9b@shamsi-cal
-DTSTAMP:20261007T194813Z
+DTSTAMP:20261007T204911Z
 DTSTART;VALUE=DATE:20280325
 DTEND;VALUE=DATE:20280326
 SUMMARY:📌 لیست بیمه و مالیات حقوق بهمن ۱۴۰۶
